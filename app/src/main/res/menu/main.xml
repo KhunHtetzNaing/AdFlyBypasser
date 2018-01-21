@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:title="Clear" android:id="@+id/clear" android:icon="@drawable/clear" app:showAsAction="always"/>
+    <item android:title="Paste" android:id="@+id/paste" android:icon="@drawable/paste" app:showAsAction="always"/>
+</menu>
